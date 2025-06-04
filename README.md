@@ -1,4 +1,5 @@
-Walmart Sales Data ETL Pipeline on Google Cloud Platform
+Walmart Sales Data ETL Pipeline on Google Cloud Platform 
+
 This repository contains an Apache Airflow DAG for orchestrating an end-to-end ETL pipeline
 That processes Walmart sales data stored in Google Cloud Storage (GCS) and loads it into BigQuery for analysis and reporting.
 
